@@ -1,0 +1,14 @@
+D:\learning_dotnet\RealEstateClassApp\bin\Debug\net8.0\RealEstateClassApp.exe
+D:\learning_dotnet\RealEstateClassApp\bin\Debug\net8.0\RealEstateClassApp.deps.json
+D:\learning_dotnet\RealEstateClassApp\bin\Debug\net8.0\RealEstateClassApp.runtimeconfig.json
+D:\learning_dotnet\RealEstateClassApp\bin\Debug\net8.0\RealEstateClassApp.dll
+D:\learning_dotnet\RealEstateClassApp\bin\Debug\net8.0\RealEstateClassApp.pdb
+D:\learning_dotnet\RealEstateClassApp\obj\Debug\net8.0\RealEstateClassApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning_dotnet\RealEstateClassApp\obj\Debug\net8.0\RealEstateClassApp.AssemblyInfoInputs.cache
+D:\learning_dotnet\RealEstateClassApp\obj\Debug\net8.0\RealEstateClassApp.AssemblyInfo.cs
+D:\learning_dotnet\RealEstateClassApp\obj\Debug\net8.0\RealEstateClassApp.csproj.CoreCompileInputs.cache
+D:\learning_dotnet\RealEstateClassApp\obj\Debug\net8.0\RealEstateClassApp.dll
+D:\learning_dotnet\RealEstateClassApp\obj\Debug\net8.0\refint\RealEstateClassApp.dll
+D:\learning_dotnet\RealEstateClassApp\obj\Debug\net8.0\RealEstateClassApp.pdb
+D:\learning_dotnet\RealEstateClassApp\obj\Debug\net8.0\RealEstateClassApp.genruntimeconfig.cache
+D:\learning_dotnet\RealEstateClassApp\obj\Debug\net8.0\ref\RealEstateClassApp.dll

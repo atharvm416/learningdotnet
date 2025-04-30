@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RealEstateConsole/1.0.0": {
+        "runtime": {
+          "RealEstateConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RealEstateConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

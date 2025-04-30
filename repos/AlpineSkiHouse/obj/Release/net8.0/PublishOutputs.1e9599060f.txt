@@ -1,0 +1,7 @@
+C:\Users\AtharvM\source\repos\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.exe
+C:\Users\AtharvM\source\repos\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\AtharvM\source\repos\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\AtharvM\source\repos\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.dll
+C:\Users\AtharvM\source\repos\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.deps.json
+C:\Users\AtharvM\source\repos\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.runtimeconfig.json
+C:\Users\AtharvM\source\repos\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.pdb

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5D6EEA-2A19-433E-A624-F79C8BD8F3F2}|FirstClassLibraryUse\\FirstClassLibraryUse.csproj|c:\\users\\atharvm\\source\\repos\\realestate\\firstclasslibraryuse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5D6EEA-2A19-433E-A624-F79C8BD8F3F2}|FirstClassLibraryUse\\FirstClassLibraryUse.csproj|solutionrelative:firstclasslibraryuse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF2CC90-743F-4A22-8F7F-B4D420DCB289}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\atharvm\\source\\repos\\realestate\\classlibrary1\\irealestateoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF2CC90-743F-4A22-8F7F-B4D420DCB289}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\irealestateoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF2CC90-743F-4A22-8F7F-B4D420DCB289}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\atharvm\\source\\repos\\realestate\\classlibrary1\\realestateprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF2CC90-743F-4A22-8F7F-B4D420DCB289}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\realestateprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF2CC90-743F-4A22-8F7F-B4D420DCB289}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\atharvm\\source\\repos\\realestate\\classlibrary1\\bankaccountprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF2CC90-743F-4A22-8F7F-B4D420DCB289}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\bankaccountprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF2CC90-743F-4A22-8F7F-B4D420DCB289}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\atharvm\\source\\repos\\realestate\\classlibrary1\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF2CC90-743F-4A22-8F7F-B4D420DCB289}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\ClassLibrary1\\IBankAccount.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\IBankAccount.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\ClassLibrary1\\IBankAccount.cs",
+              "RelativeToolTip": "ClassLibrary1\\IBankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:11:38.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\FirstClassLibraryUse\\Program.cs",
+              "RelativeDocumentMoniker": "FirstClassLibraryUse\\Program.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\FirstClassLibraryUse\\Program.cs",
+              "RelativeToolTip": "FirstClassLibraryUse\\Program.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAwPIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:09:09.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccountProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\ClassLibrary1\\BankAccountProcessor.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\BankAccountProcessor.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\ClassLibrary1\\BankAccountProcessor.cs",
+              "RelativeToolTip": "ClassLibrary1\\BankAccountProcessor.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:14:05.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRealEstateOperations.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\ClassLibrary1\\IRealEstateOperations.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\IRealEstateOperations.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\ClassLibrary1\\IRealEstateOperations.cs",
+              "RelativeToolTip": "ClassLibrary1\\IRealEstateOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:11:40.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RealEstateProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\ClassLibrary1\\RealEstateProcessor.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\RealEstateProcessor.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstate\\ClassLibrary1\\RealEstateProcessor.cs",
+              "RelativeToolTip": "ClassLibrary1\\RealEstateProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:01:44.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

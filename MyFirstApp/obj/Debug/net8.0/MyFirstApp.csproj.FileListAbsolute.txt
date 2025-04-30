@@ -1,0 +1,14 @@
+D:\learning_dotnet\MyFirstApp\bin\Debug\net8.0\MyFirstApp.exe
+D:\learning_dotnet\MyFirstApp\bin\Debug\net8.0\MyFirstApp.deps.json
+D:\learning_dotnet\MyFirstApp\bin\Debug\net8.0\MyFirstApp.runtimeconfig.json
+D:\learning_dotnet\MyFirstApp\bin\Debug\net8.0\MyFirstApp.dll
+D:\learning_dotnet\MyFirstApp\bin\Debug\net8.0\MyFirstApp.pdb
+D:\learning_dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning_dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\learning_dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.AssemblyInfo.cs
+D:\learning_dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\learning_dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.dll
+D:\learning_dotnet\MyFirstApp\obj\Debug\net8.0\refint\MyFirstApp.dll
+D:\learning_dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.pdb
+D:\learning_dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.genruntimeconfig.cache
+D:\learning_dotnet\MyFirstApp\obj\Debug\net8.0\ref\MyFirstApp.dll
