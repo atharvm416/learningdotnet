@@ -27,10 +27,10 @@ namespace Applicationcreation.Controllers
         }
 
         [HttpPost("register")]
-        public async Task<ActionResult<AuthResponseDto>> Register(LoginDto loginDto)
+        public async Task<ActionResult<AuthResponseDto>> Register(RegisterDTO RegisterDTO)
         {
             // Check if user already exists
-            if (await _context.Users.AnyAsync(u => u.Email == loginDto.Email))
+            if (await _context.Users.AnyAsync(u => u.Email == RegisterDTO.Email))
             {
                 return BadRequest(new AuthResponseDto
                 {
@@ -40,11 +40,11 @@ namespace Applicationcreation.Controllers
             }
 
             // Create password hash (in a real app, use proper hashing like BCrypt)
-            var passwordHash = BCrypt.Net.BCrypt.HashPassword(loginDto.Password);
+            var passwordHash = BCrypt.Net.BCrypt.HashPassword(RegisterDTO.Password);
 
             var user = new User
             {
-                Email = loginDto.Email,
+                Email = RegisterDTO.Email,
                 PasswordHash = passwordHash,
                 CreatedAt = DateTime.UtcNow,
                 UpdatedAt = DateTime.UtcNow
@@ -63,7 +63,7 @@ namespace Applicationcreation.Controllers
         [HttpPost("login")]
         public async Task<ActionResult<AuthResponseDto>> Login(LoginDto loginDto)
         {
-            var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == loginDto.Email);
+            var user = await _context.Users.Include(u => u.Role).FirstOrDefaultAsync(u => u.Email == loginDto.Email);
 
             if (user == null || !BCrypt.Net.BCrypt.Verify(loginDto.Password, user.PasswordHash))
             {

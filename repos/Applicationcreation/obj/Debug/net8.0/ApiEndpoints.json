@@ -34,8 +34,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "loginDto",
-        "Type": "Applicationcreation.DTOs.LoginDto",
+        "Name": "RegisterDTO",
+        "Type": "Applicationcreation.DTOs.RegisterDTO",
         "IsRequired": true
       }
     ],
@@ -70,5 +70,47 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Applicationcreation.Controllers.ProductController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Applicationcreation.DTOs.ProductDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Applicationcreation.Controllers.ProductCatalogController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/ProductCatalog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Applicationcreation.DTOs.ProductCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

@@ -53,5 +53,9 @@ public partial class Product
 
     public decimal? Rating { get; set; }
 
+    public string? MainImageUrl { get; set; }
+
+    public string? ImageAltText { get; set; }
+
     public virtual Manufacturer? Manufacturer { get; set; }
 }

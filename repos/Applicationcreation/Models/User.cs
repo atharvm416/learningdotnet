@@ -16,4 +16,8 @@ public partial class User
     public DateTime? UpdatedAt { get; set; }
 
     public DateTime? LastLogin { get; set; }
+
+    public int? RoleId { get; set; }
+
+    public virtual Role? Role { get; set; }
 }

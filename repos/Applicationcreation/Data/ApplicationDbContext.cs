@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using Applicationcreation.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Applicationcreation.Models;
+namespace Applicationcreation.Data;
 
-public partial class ApplicationcreationContext : DbContext
+public partial class ApplicationDbContext : DbContext
 {
-    public ApplicationcreationContext()
+    public ApplicationDbContext()
     {
     }
 
-    public ApplicationcreationContext(DbContextOptions<ApplicationcreationContext> options)
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options)
     {
     }
@@ -19,10 +20,9 @@ public partial class ApplicationcreationContext : DbContext
 
     public virtual DbSet<Product> Products { get; set; }
 
-    public virtual DbSet<User> Users { get; set; }
-
     public virtual DbSet<Role> Roles { get; set; }
 
+    public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
@@ -60,9 +60,11 @@ public partial class ApplicationcreationContext : DbContext
             entity.Property(e => e.DateModified).HasColumnType("datetime");
             entity.Property(e => e.DownloadUrl).HasMaxLength(255);
             entity.Property(e => e.HasVariants).HasDefaultValue(false);
+            entity.Property(e => e.ImageAltText).HasMaxLength(100);
             entity.Property(e => e.IsActive).HasDefaultValue(true);
             entity.Property(e => e.IsDownloadable).HasDefaultValue(false);
             entity.Property(e => e.IsFeatured).HasDefaultValue(false);
+            entity.Property(e => e.MainImageUrl).HasMaxLength(255);
             entity.Property(e => e.MetaDescription).HasMaxLength(255);
             entity.Property(e => e.MetaKeywords).HasMaxLength(255);
             entity.Property(e => e.MetaTitle).HasMaxLength(100);
@@ -84,24 +86,14 @@ public partial class ApplicationcreationContext : DbContext
 
         modelBuilder.Entity<Role>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Roles__3213E83F"); // optional custom name
-            entity.ToTable("Roles"); // matches your actual table name
+            entity.HasKey(e => e.Id).HasName("PK__Roles__3214EC077CBAB37C");
 
-            entity.Property(e => e.Id).HasColumnName("id");
-            entity.Property(e => e.Name).HasMaxLength(100).HasColumnName("name");
-            entity.Property(e => e.Description).HasMaxLength(255).HasColumnName("description");
             entity.Property(e => e.CreatedAt)
-                .HasColumnType("datetime")
                 .HasDefaultValueSql("(getdate())")
-                .HasColumnName("createdAt");
-
-            // Optional: if you want to make reverse navigation smoother
-            entity.HasMany(e => e.Users)
-                .WithOne(u => u.Role)
-                .HasForeignKey(u => u.RoleId)
-                .HasConstraintName("FK_Users_Roles");
+                .HasColumnType("datetime");
+            entity.Property(e => e.Description).HasMaxLength(255);
+            entity.Property(e => e.Name).HasMaxLength(100);
         });
-
 
         modelBuilder.Entity<User>(entity =>
         {
@@ -129,11 +121,14 @@ public partial class ApplicationcreationContext : DbContext
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
                 .HasColumnName("updated_at");
+
+            entity.HasOne(d => d.Role).WithMany(p => p.Users)
+                .HasForeignKey(d => d.RoleId)
+                .HasConstraintName("FK_Users_Roles");
         });
 
         OnModelCreatingPartial(modelBuilder);
     }
-
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }

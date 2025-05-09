@@ -13,27 +13,20 @@ namespace Applicationcreation.DTOs
         public string? MainImageUrl { get; set; }
         public string? ManufacturerName { get; set; }
         public bool? IsFeatured { get; set; }
+
+        public ManufacturerDto? Manufacturer { get; set; }
     }
 
     public class ProductCreateDto
     {
-        [Required]
-        [StringLength(50)]
         public string Sku { get; set; } = null!;
-
-        [Required]
-        [StringLength(100)]
         public string Name { get; set; } = null!;
-
-        [StringLength(500)]
         public string? Description { get; set; }
-
-        [Range(0.01, 100000)]
         public decimal Price { get; set; }
-
         public string? MainImageUrl { get; set; }
         public int? ManufacturerId { get; set; }
     }
+
 
     public class ProductUpdateDto
     {
