@@ -47,7 +47,8 @@ namespace Applicationcreation.Controllers
                 Email = RegisterDTO.Email,
                 PasswordHash = passwordHash,
                 CreatedAt = DateTime.UtcNow,
-                UpdatedAt = DateTime.UtcNow
+                UpdatedAt = DateTime.UtcNow,
+                RoleId = int.TryParse(RegisterDTO.RoleId, out var roleId) ? roleId : 2 // Default to role 2 if parsing fails
             };
 
             _context.Users.Add(user);

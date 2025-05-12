@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\AtharvM\\source\\repos\\Applicationcreation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{98E6890A-A5D8-4EFB-A39C-F1BCA4C6ACFF}|Applicationcreation.csproj|c:\\users\\atharvm\\source\\repos\\applicationcreation\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E6890A-A5D8-4EFB-A39C-F1BCA4C6ACFF}|Applicationcreation.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E6890A-A5D8-4EFB-A39C-F1BCA4C6ACFF}|Applicationcreation.csproj|c:\\users\\atharvm\\source\\repos\\applicationcreation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E6890A-A5D8-4EFB-A39C-F1BCA4C6ACFF}|Applicationcreation.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98E6890A-A5D8-4EFB-A39C-F1BCA4C6ACFF}|Applicationcreation.csproj|c:\\users\\atharvm\\source\\repos\\applicationcreation\\controllers\\productcatalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98E6890A-A5D8-4EFB-A39C-F1BCA4C6ACFF}|Applicationcreation.csproj|solutionrelative:controllers\\productcatalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{98E6890A-A5D8-4EFB-A39C-F1BCA4C6ACFF}|Applicationcreation.csproj|c:\\users\\atharvm\\source\\repos\\applicationcreation\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98E6890A-A5D8-4EFB-A39C-F1BCA4C6ACFF}|Applicationcreation.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98E6890A-A5D8-4EFB-A39C-F1BCA4C6ACFF}|Applicationcreation.csproj|c:\\users\\atharvm\\source\\repos\\applicationcreation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98E6890A-A5D8-4EFB-A39C-F1BCA4C6ACFF}|Applicationcreation.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\Applicationcreation\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\Applicationcreation\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:31:04.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductCatalogController.cs",
               "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\Applicationcreation\\Controllers\\ProductCatalogController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductCatalogController.cs",
               "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\Applicationcreation\\Controllers\\ProductCatalogController.cs",
               "RelativeToolTip": "Controllers\\ProductCatalogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T13:40:17.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ApplicationcreationContext.cs",
               "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\Applicationcreation\\Models\\ApplicationcreationContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationcreationContext.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Models\\ApplicationcreationContext.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAAAF8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:27:34.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T13:27:34.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\Applicationcreation\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "Services\\TokenService.cs",
@@ -64,18 +80,17 @@
               "RelativeToolTip": "Services\\TokenService.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T11:36:37.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T11:36:37.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\Applicationcreation\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\Applicationcreation\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAqwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwC8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T13:47:08.081Z",
               "EditorCaption": ""

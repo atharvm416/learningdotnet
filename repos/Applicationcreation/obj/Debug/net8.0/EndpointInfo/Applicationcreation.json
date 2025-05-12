@@ -375,6 +375,10 @@
           "password": {
             "minLength": 1,
             "type": "string"
+          },
+          "roleId": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
