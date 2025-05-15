@@ -16,13 +16,11 @@ namespace Applicationcreation.Controllers
     public class AuthController : ControllerBase
     {
         private readonly ApplicationcreationContext _context;
-        private readonly IConfiguration _configuration;
         private readonly TokenService _tokenService;
 
-        public AuthController(ApplicationcreationContext context, IConfiguration configuration, TokenService tokenService)
+        public AuthController(ApplicationcreationContext context, TokenService tokenService)
         {
             _context = context;
-            _configuration = configuration;
             _tokenService = tokenService;
         }
 
