@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "Px0uWZJJ9JQI+HmvSltkoGVNgCVTuGs34bFh7rwDRu4=",
+  "Source": "webapisimulationproduct",
+  "BasePath": "_content/webapisimulationproduct",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\AtharvM\\source\\repos\\coresimulation\\coresimulation.csproj",
+      "Version": 2,
+      "Source": "coresimulation",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,2 @@
+C:\Users\AtharvM\source\repos\coresimulation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AtharvM\source\repos\coresimulation\obj\Debug\net8.0\staticwebassets.build.json
