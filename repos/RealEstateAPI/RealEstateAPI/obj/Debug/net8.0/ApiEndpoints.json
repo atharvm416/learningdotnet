@@ -1,5 +1,73 @@
 [
   {
+    "ContainingType": "RealEstateAPI.Controllers.BrandController",
+    "Method": "GetAllBrands",
+    "RelativePath": "api/Brand",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAPI.Controllers.BrandController",
+    "Method": "CreateBrand",
+    "RelativePath": "api/Brand",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "brand",
+        "Type": "RealEstateAPI.Models.BrandDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAPI.Controllers.BrandController",
+    "Method": "UpdateBrand",
+    "RelativePath": "api/Brand",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "brand",
+        "Type": "RealEstateAPI.Models.BrandDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAPI.Controllers.BrandController",
+    "Method": "DeleteBrand",
+    "RelativePath": "api/Brand/{name}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAPI.Controllers.BrandController",
+    "Method": "TestException",
+    "RelativePath": "api/Brand/test-exception",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RealEstateAPI.Controllers.PizzaController",
     "Method": "GetAll",
     "RelativePath": "api/Pizza",

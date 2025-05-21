@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|c:\\users\\atharvm\\source\\repos\\realestateweblearning\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|solutionrelative:controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|c:\\users\\atharvm\\source\\repos\\realestateweblearning\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|c:\\users\\atharvm\\source\\repos\\realestateweblearning\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|solutionrelative:repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|c:\\users\\atharvm\\source\\repos\\realestateweblearning\\controllers\\propertydatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|solutionrelative:controllers\\propertydatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|c:\\users\\atharvm\\source\\repos\\realestateweblearning\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|solutionrelative:models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|c:\\users\\atharvm\\source\\repos\\realestateweblearning\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|solutionrelative:dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:20:42.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "Models\\Property.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Models\\Property.cs",
+              "RelativeToolTip": "Models\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:30:03.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertyDataController.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Controllers\\PropertyDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertyDataController.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Controllers\\PropertyDataController.cs",
+              "RelativeToolTip": "Controllers\\PropertyDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:28:52.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\DTOs\\PagedResult.cs",
+              "RelativeDocumentMoniker": "DTOs\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\DTOs\\PagedResult.cs",
+              "RelativeToolTip": "DTOs\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:24:37.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Controllers\\BrandController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:14:49.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:46:13.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

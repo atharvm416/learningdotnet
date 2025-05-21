@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using RealEstateAPI.Middleware;
+using RealEstateAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,11 +10,14 @@ var builder = WebApplication.CreateBuilder(args);
 //    options.UseSqlServer(builder.Configuration.GetConnectionString("RealEstateConnection")));
 
 builder.Services.AddControllers();
+
+builder.Services.AddScoped<IBrandService, BrandService>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -22,6 +27,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseMiddleware<ExceptionMiddleware>();
+
 
 app.UseAuthorization();
 
