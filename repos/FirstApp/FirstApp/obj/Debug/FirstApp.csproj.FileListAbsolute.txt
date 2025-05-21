@@ -1,7 +1,0 @@
-C:\Users\AtharvM\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
-C:\Users\AtharvM\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.exe
-C:\Users\AtharvM\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
-C:\Users\AtharvM\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
-C:\Users\AtharvM\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
-C:\Users\AtharvM\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.exe
-C:\Users\AtharvM\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

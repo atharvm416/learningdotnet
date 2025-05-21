@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "RealEstateConsole/1.0.0": {
+        "dependencies": {
+          "RealEstateService": "1.0.0"
+        },
         "runtime": {
           "RealEstateConsole.dll": {}
+        }
+      },
+      "RealEstateService/1.0.0": {
+        "runtime": {
+          "RealEstateService.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "RealEstateConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RealEstateService/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

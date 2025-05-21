@@ -1,0 +1,12 @@
+D:\learning_dotnet\RealEstateService\bin\Debug\net8.0\RealEstateService.deps.json
+D:\learning_dotnet\RealEstateService\bin\Debug\net8.0\RealEstateService.dll
+D:\learning_dotnet\RealEstateService\bin\Debug\net8.0\RealEstateService.pdb
+D:\learning_dotnet\RealEstateService\obj\Debug\net8.0\RealEstateService.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning_dotnet\RealEstateService\obj\Debug\net8.0\RealEstateService.AssemblyInfoInputs.cache
+D:\learning_dotnet\RealEstateService\obj\Debug\net8.0\RealEstateService.AssemblyInfo.cs
+D:\learning_dotnet\RealEstateService\obj\Debug\net8.0\RealEstateService.csproj.CoreCompileInputs.cache
+D:\learning_dotnet\RealEstateService\obj\Debug\net8.0\RealEstateService.sourcelink.json
+D:\learning_dotnet\RealEstateService\obj\Debug\net8.0\RealEstateService.dll
+D:\learning_dotnet\RealEstateService\obj\Debug\net8.0\refint\RealEstateService.dll
+D:\learning_dotnet\RealEstateService\obj\Debug\net8.0\RealEstateService.pdb
+D:\learning_dotnet\RealEstateService\obj\Debug\net8.0\ref\RealEstateService.dll
