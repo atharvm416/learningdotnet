@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunctionApp1_learning": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7154",
+      "launchBrowser": false
+    }
+  }
+}

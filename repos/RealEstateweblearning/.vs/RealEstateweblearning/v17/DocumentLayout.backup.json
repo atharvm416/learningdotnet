@@ -21,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|c:\\users\\atharvm\\source\\repos\\realestateweblearning\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|solutionrelative:models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|c:\\users\\atharvm\\source\\repos\\realestateweblearning\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05BBF8AB-38C2-427C-850D-08DA87756076}|RealEstateweblearning.csproj|solutionrelative:dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +42,7 @@
               "RelativeToolTip": "Repositories\\GenericRepository.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAUwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:20:42.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T09:20:42.13Z"
             },
             {
               "$type": "Document",
@@ -59,8 +54,7 @@
               "RelativeToolTip": "Models\\Property.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T06:30:03.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T06:30:03.461Z"
             },
             {
               "$type": "Document",
@@ -72,21 +66,7 @@
               "RelativeToolTip": "Controllers\\PropertyDataController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T06:28:52.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PagedResult.cs",
-              "DocumentMoniker": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\DTOs\\PagedResult.cs",
-              "RelativeDocumentMoniker": "DTOs\\PagedResult.cs",
-              "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\DTOs\\PagedResult.cs",
-              "RelativeToolTip": "DTOs\\PagedResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T06:24:37.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T06:28:52.624Z"
             },
             {
               "$type": "Document",
@@ -96,7 +76,7 @@
               "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
               "ToolTip": "C:\\Users\\AtharvM\\source\\repos\\RealEstateweblearning\\Controllers\\BrandController.cs",
               "RelativeToolTip": "Controllers\\BrandController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowC0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T13:14:49.903Z",
               "EditorCaption": ""
@@ -111,8 +91,7 @@
               "RelativeToolTip": "Repositories\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T12:46:13.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T12:46:13.857Z"
             }
           ]
         }

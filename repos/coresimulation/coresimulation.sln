@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.35906.104 d17.14
+VisualStudioVersion = 17.14.35906.104
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coresimulation", "coresimulation.csproj", "{FD3A3D86-2F68-4C03-8AD2-526DCFFE609D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapisimulation", "..\webapisimulation\webapisimulation.csproj", "{0F2B09EE-67CE-4D0F-B3DF-B94DD3A43842}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapisimulationproduct", "..\webapisimulationproduct\webapisimulationproduct.csproj", "{38271F93-3E6C-4C89-9EC5-801E5E572117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppsimuationhttp", "..\FunctionAppsimuationhttp\FunctionAppsimuationhttp.csproj", "{B15179F5-4EE5-4C25-A766-4929F2DF16CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{38271F93-3E6C-4C89-9EC5-801E5E572117}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38271F93-3E6C-4C89-9EC5-801E5E572117}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38271F93-3E6C-4C89-9EC5-801E5E572117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15179F5-4EE5-4C25-A766-4929F2DF16CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15179F5-4EE5-4C25-A766-4929F2DF16CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15179F5-4EE5-4C25-A766-4929F2DF16CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15179F5-4EE5-4C25-A766-4929F2DF16CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -95,3 +95,4 @@ C:\Users\AtharvM\source\repos\webapisimulation\obj\Debug\net8.0\refint\webapisim
 C:\Users\AtharvM\source\repos\webapisimulation\obj\Debug\net8.0\webapisimulation.pdb
 C:\Users\AtharvM\source\repos\webapisimulation\obj\Debug\net8.0\webapisimulation.genruntimeconfig.cache
 C:\Users\AtharvM\source\repos\webapisimulation\obj\Debug\net8.0\ref\webapisimulation.dll
+C:\Users\AtharvM\source\repos\webapisimulation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

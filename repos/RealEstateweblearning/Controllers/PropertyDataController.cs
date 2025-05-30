@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RealEstateweblearning.Data;
-using RealEstateweblearning.DTOs;
 using RealEstateweblearning.Models;
 
 namespace RealEstateweblearning.Controllers

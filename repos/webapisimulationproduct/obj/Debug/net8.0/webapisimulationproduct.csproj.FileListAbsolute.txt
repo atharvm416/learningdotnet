@@ -95,3 +95,6 @@ C:\Users\AtharvM\source\repos\webapisimulationproduct\obj\Debug\net8.0\refint\we
 C:\Users\AtharvM\source\repos\webapisimulationproduct\obj\Debug\net8.0\webapisimulationproduct.pdb
 C:\Users\AtharvM\source\repos\webapisimulationproduct\obj\Debug\net8.0\webapisimulationproduct.genruntimeconfig.cache
 C:\Users\AtharvM\source\repos\webapisimulationproduct\obj\Debug\net8.0\ref\webapisimulationproduct.dll
+C:\Users\AtharvM\source\repos\webapisimulationproduct\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AtharvM\source\repos\webapisimulationproduct\bin\Debug\net8.0\Uploads\65829b35-7389-4722-a6d1-92a2f2f7b443.json
+C:\Users\AtharvM\source\repos\webapisimulationproduct\bin\Debug\net8.0\Uploads\geographicalData (3).json

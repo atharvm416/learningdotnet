@@ -60,5 +60,37 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "webapisimulationproduct.Controllers.UploadController",
+    "Method": "Upload",
+    "RelativePath": "api/Upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "webapisimulationproduct.Controllers.UploadController",
+    "Method": "Download",
+    "RelativePath": "api/Upload/downloaduploadedfile/{filename}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filename",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
